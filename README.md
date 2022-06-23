@@ -29,13 +29,13 @@ Explore
 
 ### <🌹> About me </🌹>
 
-My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
+My name is venkata lakshmi and I'm a indian **front-end developer**. I'm here on GitHub to:
 - Share my codes;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;
 - Get inspiration and new ideas!
 
-Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
+Feel free to visit [my repositories](https://github.com/venka31448?tab=repositories). Doubts or suggestions, please open an issue and let's talk!
 
 ---
 
@@ -48,7 +48,7 @@ Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositor
 ### <📊> GitHub stats </📊>
 
 
-[![venkata lakshmis' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/venka31448) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venka31448&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/venka31448) 
+[![venkata lakshmis' GitHub stats](https://github-readme-stats.vercel.app/api?username=venka31448&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/venka31448) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venka31448&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/venka31448) 
 | ----------- | ------------ |
 
 ---
