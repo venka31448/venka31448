@@ -21,28 +21,7 @@ Issues
 Marketplace
 Explore
  
-@venka31448 
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-Code
-Issues
-1
-Pull requests
-22
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-github-profile-readme-templates/bugahontas.md
-@bugahontas
-bugahontas added bugahontas.md
-Latest commit f5406d7 on 25 Dec 2021
- History
- 1 contributor
-42 lines (24 sloc)  2.47 KB
+
 
 # Hi there! 👋 😃
  
@@ -69,14 +48,14 @@ Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositor
 ### <📊> GitHub stats </📊>
 
 
-[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
+[![venkata lakshmis' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/venka31448) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venka31448&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/venka31448) 
 | ----------- | ------------ |
 
 ---
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/bugahontas-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bugahontas) [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelmaqui@gmail.com)
+[![Github badge](https://img.shields.io/badge/bugahontas-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venka31448) [![Gmail badge](https://img.shields.io/badge/contatohelmaqui@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatalakshmipallempati@gmail.com)
 
 ---
 
